@@ -1,0 +1,4 @@
+﻿  repülések.cpp
+D:\Hennel Florian\repül\repülések\repülések.cpp(164,12): warning C4018: '<': signed/unsigned mismatch
+D:\Hennel Florian\repül\repülések\repülések.cpp(170,12): warning C4018: '<': signed/unsigned mismatch
+  repülések.vcxproj -> D:\Hennel Florian\repül\repülések\Debug\repülések.exe
